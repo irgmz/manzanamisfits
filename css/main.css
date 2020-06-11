@@ -55,7 +55,7 @@ body {
 .nav-links,
 .logo {
   text-decoration: none;
-  color: rgba(47, 110, 186, 0.892);
+  color: rgba(58, 114, 67, 0.892);
 }
 
 .main-nav li {
@@ -75,7 +75,7 @@ body {
   top: 5px;
   right: 10px;
   cursor: pointer;
-  color: rgba(174, 174, 174, 0.8);
+  color: rgba(208, 65, 65, 0.8);
   font-size: 16px;
 }
 
@@ -117,7 +117,7 @@ body {
 
   .logo:hover,
   .nav-links:hover {
-      color: rgb(174, 173, 173);
+      color: rgba(208, 65, 65, 0.8);
   }
 }
 
